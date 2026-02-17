@@ -9,8 +9,11 @@ I. Business Context:
 Accurate healthcare cost forecasting supports:
 
 1.Financial planning & reserves
+
 2.Risk stratification and care management
+
 3.Operational resource allocation
+
 4.Value-based contract performance
 
 This project demonstrates how a baseline predictive model can be built, evaluated, and interpreted in a way that aligns with real healthcare analytics decision-making.
