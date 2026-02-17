@@ -7,6 +7,7 @@ End-to-end machine learning pipeline to estimate healthcare claim cost using dem
 I. Business Context:
 
 Accurate healthcare cost forecasting supports:
+
 1.Financial planning & reserves
 2.Risk stratification and care management
 3.Operational resource allocation
