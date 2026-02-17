@@ -52,7 +52,7 @@ The negative R² shows that a simple linear model cannot adequately explain the 
 This is common in medical spending, where a small number of very high-cost cases drive overall totals.
 Future improvements would evaluate nonlinear models to better capture these complex cost patterns.
 
-![Predicted vs Actual] (https://github.com/wjgonzaga/healthcare-claims-cost-regression/blob/main/reports/figures/pred_vs_actual.png?raw=true)
+![Predicted vs Actual](/reports/figures/pred_vs_actual.png)
 
 VI. Key Insights
 
