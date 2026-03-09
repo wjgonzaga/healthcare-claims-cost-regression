@@ -77,3 +77,44 @@ VII. Real-world improvement likely requires:
 Nonlinear models
 Risk stratification classification
 Temporal utilization features
+
+
+## Project Structure
+## How to Run the Project
+
+Clone the repository
+```
+git clone https://github.com/wjgonzaga/healthcare-claims-cost-regression.git
+cd healthcare-claims-cost-regression
+```
+
+Create a virtual environment
+
+```
+python -m venv .venv
+.\.venv\Scripts\activate
+```
+
+Install dependencies
+
+```
+pip install -r requirements.txt
+```
+
+Generate synthetic data
+
+```
+python src/data.py
+```
+
+Train the model
+
+```
+python src/train.py
+```
+
+Evaluate model performance
+
+```
+python src/evaluate.py
+```
