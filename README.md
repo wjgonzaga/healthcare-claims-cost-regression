@@ -2,6 +2,8 @@
 
 📊 Healthcare Claims Cost Regression
 
+Tech Stack: Python | Pandas | NumPy | Scikit-learn | Matplotlib
+
 End-to-end machine learning pipeline to estimate healthcare claim cost using demographic, plan, and utilization features, with business-focused evaluation and interpretation.
 
 I. Business Context:
